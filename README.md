@@ -1,1 +1,4 @@
-# software_design_patterns
+# Design pattern
+
+## Open closed principle
+It means our classes should always open for extension but closed for modifications
